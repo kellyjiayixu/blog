@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "一字诗"
-subtitle:   "写于小六年级开学"
+subtitle:   "写于小学六年级开学"
 date:       2014-09-18 1:33:33
 author:     "kelly"
 header-img: "img/IMG_6735.jpeg"
