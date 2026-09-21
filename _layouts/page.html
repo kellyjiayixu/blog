@@ -35,7 +35,9 @@ layout: default
                 sidebar-container
             ">
                 <!-- Featured Tags -->
+                {% unless page.hide-featured-tags %}
                 {% include featured-tags.html %}
+                {% endunless %}
 
                 <!-- Short About (theme sidebar, including avatar) -->
                 {% include short-about.html %}
