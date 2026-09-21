@@ -1,14 +1,20 @@
 ---
 layout: post
-title: 新视野号的前世今生？
-author: kelly
+title: '新视野号的前世今生？ / New Horizons: Its Past and Present'
+author: Kelly
 date: 2019-3-2 01:33:33 +0800
-tags: [天文, 叮当猫]
+section: blog
+tags: [Others]
+multilingual: true
+lang: en
 excerpt_separator: <!--more-->
 ---
 
 
 <!--more-->
+
+<!-- Chinese Version -->
+<div class="zh post-container">
 <section style="box-sizing: border-box;font-size: 16px;"><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="1.5518248" data-w="685" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkhEPjhxjluUZCQsuO3GicJIFtEr7icfakIicguJtkNLIcHMbVtVyL5shibuA/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 677px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="677px" src="/img/wechat1/640.webp" crossorigin="anonymous" data-fail="0"></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="text-align: center;color: rgb(140, 140, 140);font-size: 15px;box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;">一次旅行，一次征途</p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="color: rgb(173, 7, 7);box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">在笔者尚小的时候</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><strong style="box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">冥王星</span></strong><span style="color: rgb(0, 0, 0);box-sizing: border-box;">还作为“太阳系九大行星”中的一员频频出现在百科全书上</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">神秘的神话名字、遥远的距离，都给这颗星球笼上了一层不可捉摸的色彩</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">尽管冥王星在2006年被踢出“行星”群聊、打入“矮行星”冷宫</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">对于科学家来说，它仍然是十分具有研究价值的天体</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">航天界也从未停止过对它的探索</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">就在<strong style="box-sizing: border-box;">今年一月</strong>，一位拜访过冥王星的“探险家”给地球带来了激动人心的消息</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">——接下来要讲述的，就是它的故事。</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box;">▼新视野号（New Horizons）@NASA</span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="0.9126904" data-w="985" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkhY7Eh6w4dEnnC2GLoCicDqOcLMnAgUxPx2HISQlcZgryj2ZWIOiadlZUg/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 677px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="677px" src="/img/wechat1/640_006.webp" crossorigin="anonymous" data-fail="0"></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="text-align: center;font-size: 32px;box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 30px;box-sizing: border-box;"><strong style="box-sizing: border-box;">Ⅰ</strong></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 30px;box-sizing: border-box;"><strong style="box-sizing: border-box;">出发</strong></span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">故事开始于<strong style="box-sizing: border-box;">2006年1月19日</strong></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">卡纳维拉尔角肯尼迪航天中心，佛罗里达州，美国</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">这天，一只冥王星探测器由<strong style="box-sizing: border-box;">美国国家航空航天局</strong>（NASA）发射升空了</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="letter-spacing: 0px;color: rgb(0, 0, 0);box-sizing: border-box;">它的名字是<strong style="box-sizing: border-box;">新地平线号探测器</strong><strong style="box-sizing: border-box;">（New Horizons）</strong></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);letter-spacing: 0px;box-sizing: border-box;">它肩负着重大的使命：探测<strong style="box-sizing: border-box;">冥王星</strong>和它最大的卫星<strong style="box-sizing: border-box;">卡戎（冥卫一）</strong>、以及探测位于</span><strong style="box-sizing: border-box;"><span style="color: rgb(0, 0, 0);letter-spacing: 0px;box-sizing: border-box;">柯伊伯带</span></strong><span style="color: rgb(0, 0, 0);letter-spacing: 0px;box-sizing: border-box;">的小行星群。</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);letter-spacing: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="letter-spacing: 0px;color: rgb(173, 7, 7);font-size: 14px;box-sizing: border-box;">▼新视野号发射照片 @NASA</span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="0.6648148" data-w="1080" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkhgm0icJMicw6WYT0HCeMDMQ8ganDX8dJ82CBQDckaaE5CEGI2MLwOsOdQ/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 677px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="677px" src="/img/wechat1/640_003.webp" crossorigin="anonymous" data-fail="0"></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="font-size: 14px;box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(173, 7, 7);box-sizing: border-box;">▼@New Horizons: Hello! It’s me! @NASA</span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="0.8" data-w="1080" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkhsDhiaSmFicSicQJzlIa27HQ6bdUXILvAjLJMyS7mhUwmdx4QraS2fw8fw/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 677px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="677px" src="/img/wechat1/640_009.webp" crossorigin="anonymous" data-fail="0"></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">首先，“新地平线”号会经过冥王星</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">在完成了考察冥王星的工作后</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">它会继续向离地球更远的宇宙飞行</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">去往一个由彗星和其他宇宙碎片构成的中间环带——<strong style="box-sizing: border-box;">柯伊柏带</strong>。</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(173, 7, 7);font-size: 14px;box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(173, 7, 7);font-size: 14px;box-sizing: border-box;">▼柯伊伯带 @Google</span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="0.8574074" data-w="1080" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkh8jNXCV73x2e6ItdJVggyOfvrve8IVTia4SGHjQOMhRxBZ43dLlHZDzA/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 677px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="677px" src="/img/wechat1/640_014.webp" crossorigin="anonymous" data-fail="0"></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="text-align: center;font-size: 30px;box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><strong style="box-sizing: border-box;"><br style="box-sizing: border-box;"></strong></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><strong style="box-sizing: border-box;">Ⅱ</strong></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><strong style="box-sizing: border-box;">足迹</strong></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">到现在为止</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">“新地平线”号已经在太阳系中独自穿行了<strong style="box-sizing: border-box;">13年</strong></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color: rgb(0, 0, 0);box-sizing: border-box;">现在，它仍然沿着完整的计划轨道继续前进</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><br style="box-sizing: border-box;"></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;color: rgb(173, 7, 7);box-sizing: border-box;">▼
 这张照片显示了“新地平线”目前的位置。这条线的绿色部分显示了“新地平线”号已经走过的路；红色表示它未来的运行轨迹。可以看到，它已经走完了自己的大
 部分路程，离任务完成、圆满收官的日子也越来越近。 @Johns Hopkins University Applied Physics
@@ -16,3 +22,124 @@ Laboratory</span></p></section></section></section><section style="box-sizing: b
 本文主要参考文献：百度百科词条《新地平线号探测器》，环球网《新视野号带回“天涯海角”新照：更像煎饼而非雪人》， New Horizons
 Spacecraft Returns Its Sharpest Views of Ultima
 Thule，科学探索网《新视野号“冒险”捕捉的Ultima Thule画面是目前传回的最高分辨率图像》，New Horizons官网</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;color: rgb(140, 140, 140);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;color: rgb(140, 140, 140);box-sizing: border-box;">p.p.s公众号的第一次推文，大家请多多支持</span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;color: rgb(140, 140, 140);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color:#8c8c8c;box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">p,p.p.s文：徐嘉忆，李卓然</span></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color:#8c8c8c;box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;封面设计：徐嘉忆</span></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="color:#8c8c8c;box-sizing: border-box;"><span style="font-size: 14px;box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="display: inline-block;vertical-align: top;width: 45%;box-sizing: border-box;"><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="margin: 22px 0% 8px;box-sizing: border-box;"><section style="border-top: 1px dashed rgb(185, 167, 121);box-sizing: border-box;"></section></section></section></section><section style="display: inline-block;vertical-align: top;width: 10%;box-sizing: border-box;"><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 60%;box-sizing: border-box;"><img class="" data-ratio="1.5443038" data-w="237" data-src="https://mmbiz.qpic.cn/mmbiz_png/r5EjoxQVp5oG9lleKibzz5VevVEIiaQjnxgo9zicziaCNCV31z4vkTTG65iceHYA1waoMGicwr3AaCA1Bic9ydlr8tIzA/640?wx_fmt=png?x-oss-process=style/xmorient" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 100% !important; height: auto !important; visibility: visible !important;" data-type="png?x-oss-process=style/xmorient" _width="100%" src="/img/wechat1/640.png" crossorigin="anonymous" data-fail="0" width="100%"></section></section></section></section><section style="display: inline-block;vertical-align: top;width: 45%;box-sizing: border-box;"><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="margin: 22px 0% 8px;box-sizing: border-box;"><section style="border-top: 1px dashed rgb(185, 167, 121);box-sizing: border-box;"></section></section></section></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="box-sizing: border-box;"><section style="text-align: center;font-size: 20px;box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="background-color: rgba(163, 135, 10, 0.88);color: rgb(255, 255, 255);box-sizing: border-box;">叮当猫的麻袋</span><span style="background-color: rgba(163, 135, 10, 0.88);box-sizing: border-box;"><br style="box-sizing: border-box;"></span></p><p style="margin: 0px;padding: 0px;box-sizing: border-box;"><span style="font-size: 14px;color: rgb(140, 140, 140);box-sizing: border-box;">All about space and time.</span></p></section></section></section><section style="box-sizing: border-box;" powered-by="xiumi.us"><section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;"><section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;"><img class="" data-ratio="1" data-w="258" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/WR7WEbS7VgwnDgw9VveQO8yohaXldjkh0O6lzkX293mMxzWIMevZcE42mtBlfQO34M2Fpb82vib4RUvDaHU5icWA/640?wx_fmt=jpeg" style="vertical-align: middle; max-width: 100%; box-sizing: border-box; width: 258px !important; height: auto !important; visibility: visible !important;" data-type="jpeg" _width="258px" src="/img/wechat1/640_008.webp" crossorigin="anonymous" data-fail="0"></section></section></section></section>
+
+</div>
+
+<!-- English Version -->
+<div class="en post-container" markdown="1">
+
+![](/img/wechat1/640.webp)
+*A journey, an expedition*
+
+When the author was still very young, **Pluto** still appeared again and again in encyclopedias as one of "the nine major planets of the solar system." Its mysterious, mythological name and its remote distance both cloaked the world in an air of the unfathomable.
+
+Even though Pluto was kicked out of the "planet" group chat in 2006 and banished to the "dwarf planet" cold palace, for scientists it remains a body of tremendous research value, and the aerospace world has never stopped exploring it.
+
+Just this past **January**, an "explorer" that once visited Pluto brought thrilling news back to Earth — and what follows is its story.
+
+*▼ New Horizons @NASA*
+![](/img/wechat1/640_006.webp)
+
+## Ⅰ Departure
+
+The story begins on **January 19, 2006**, at Cape Canaveral, Kennedy Space Center, Florida, USA. On this day a Pluto probe was launched by the **National Aeronautics and Space Administration (NASA)**.
+
+Its name is the **New Horizons** probe. It shouldered a momentous mission: to explore **Pluto** and its largest moon **Charon**, and to survey the group of minor bodies in the **Kuiper Belt**.
+
+*▼ New Horizons launch photo @NASA*
+![](/img/wechat1/640_003.webp)
+
+*▼ @New Horizons: Hello! It's me! @NASA*
+![](/img/wechat1/640_009.webp)
+
+First, New Horizons would pass by Pluto. After completing its survey of Pluto, it would continue flying toward regions of the universe even farther from Earth, heading for an intermediate ring made of comets and other cosmic debris — the **Kuiper Belt**.
+
+*▼ The Kuiper Belt @Google*
+![](/img/wechat1/640_014.webp)
+
+## Ⅱ Footprints
+
+Up to now, New Horizons has traveled alone through the solar system for **13 years**, and it still continues along its full planned trajectory.
+
+*▼ This image shows New Horizons' current position. The green part of the line shows the path New Horizons has already traveled; red shows its future trajectory. As you can see, it has already covered most of its journey, and the day of mission completion draws ever nearer. @Johns Hopkins University Applied Physics Laboratory*
+![](/img/wechat1/640_004.webp)
+
+@New Horizons: The footprints of growth — one big step at a time.
+
+*▼ @Johns Hopkins University Applied Physics Laboratory*
+![](/img/wechat1/640_007.webp)
+
+On **July 14, 2015**, New Horizons successfully flew past **Pluto**, capturing precious imagery and completing its **primary mission**. Over a journey lasting a full decade, it successfully crossed **3.26 billion miles (5.25 billion km)** of the solar system.
+
+@New Horizons: I'm amazing!
+
+*▼ @NASA*
+![](/img/wechat1/640_011.webp)
+
+New Horizons flew past **Pluto** and its **five moons**: Charon, Nix, Hydra, Kerberos, and Styx. Its closest approach came to within **7,759 miles (12,487 km)**.
+
+This flight was **another milestone** in the history of astronomy — New Horizons flew past the **most distant** body humanity has ever studied!
+
+@New Horizons: Charon and me! It wasn't easy to finally see it! I have to take a photo together and send it back for humans to see!
+
+*▼ New Horizons and Charon @NASA*
+![](/img/wechat1/640_013.webp)
+
+## Ⅲ Passing the Ends of the Earth
+
+As New Horizons approached the distant **object MU69** (also known as Ultima Thule), it captured images of it, letting humanity for the first time in history clearly see an object in the Kuiper Belt — bear in mind that the Kuiper Belt lies a full **4 billion miles** from our home.
+
+The **Kuiper Belt** is made up of a vast body of **icy objects** and a series of **mysterious small bodies** orbiting beyond Neptune. This region is also called the **"third zone"** of the solar system, existing in the vast reaches beyond the solar system's planets — the inner rocky planets and the outer gas giants are all too close to the Sun for the Kuiper Belt.
+
+@New Horizons: Yeah~ New Year's goal accomplished!
+
+*▼ A glimpse of the ends of the earth (animation) @Johns Hopkins Applied Physics Laboratory*
+![](/img/wechat1/640.gif)
+
+@New Horizons: ??? (I've discovered an unidentified object.)
+
+@New Horizons principal investigator **Alan Stern**: "The few images New Horizons sent back gave us a rough first impression of **Ultima Thule**, and the new photos have given us a further understanding of this mysterious body."
+
+A description closer to the truth is that Ultima Thule is **flat in shape**, like a pancake. But more importantly, these new images have created yet another puzzle for the scientific community: **how did such a strange body form?** We have never seen anything like it orbiting the Sun.
+
+The incredible images show that Ultima Thule is not composed of spheres as scientists originally thought; instead it has two flattened lobes, overturning what a large portion of scientists had previously believed.
+
+"Studying Ultima Thule helps us understand **how planets form** — both the planets in our solar system and the planets orbiting other stars in the galaxy," said **Jeff Moore**, head of New Horizons' geology and geophysics team.
+
+*▼ Artist's conception of the ends of the earth @NASA*
+![](/img/wechat1/640_012.webp)
+
+*▼ The view begins to slowly sharpen @2019 The Johns Hopkins University Applied Physics Laboratory*
+![](/img/wechat1/640_010.webp)
+
+These new frames were taken about **six and a half minutes** before New Horizons reached its closest point to Ultima Thule, when New Horizons was only **4,109 miles (6,628 km)** from Ultima Thule. New Horizons flew past the body at **over 32,000 mph (51,500 km/h)**, so obtaining such clear images from this close range is incredible.
+
+*▼ The first photos collected @NASA*
+![](/img/wechat1/640_005.webp)
+
+@New Horizons: Still a tiny bit blurry — what do I do? Requesting technical support!
+
+@New Horizons principal investigator **Alan Stern**: They were passing by in the dim light of the Kuiper Belt, **more than a billion miles beyond Pluto**, at **32,000 miles per hour**. To get clear images, we needed to know the **precise position, at every moment**, of both Ultima Thule and New Horizons. This was a far more difficult observation than the 2015 Pluto flyby.
+
+*▼ The clearest photo collected so far @NASA*
+![](/img/wechat1/640_002.webp)
+
+@New Horizons: Clever humans!
+
+These new frames offer clearer detail of **Ultima Thule's** peculiar landscape. Besides some large impact craters, the images more clearly highlight the **smaller pits on the top**, and along the boundary between night and day the **mysterious bright spots** stand out more too — especially the **"neck"** connecting the two parts.
+
+New Horizons has already completed close flybys of **Pluto** and **Ultima Thule**, but its mission is not yet over. This "little explorer" will continue to explore other Kuiper Belt objects, able to obtain far more detail than the Hubble telescope, and may even find another flyby target.
+
+Meanwhile, data and images will keep streaming back through the middle of 2020, so what we are seeing may not yet be the last images of Ultima Thule — it certainly won't be over so easily.
+
+This wondrous body holds enormous research value, and perhaps scientists are working overtime to dig it all out.
+
+@New Horizons: Wish me luck — hope I don't run out of power and go to sleep halfway! Bye~
+
+P.S. Main references for this article: the Baidu Baike entry "New Horizons probe," Huanqiu.com's "New Horizons brings back new photos of 'Ultima Thule': more like a pancake than a snowman," *New Horizons Spacecraft Returns Its Sharpest Views of Ultima Thule*, Kexue.com's "The Ultima Thule images 'daringly' captured by New Horizons are the highest-resolution ones sent back so far," and the official New Horizons website.
+
+p.p.s. This is the WeChat account's very first post — please show your support, everyone.
+
+p.p.p.s. Text: Xu Jiayi, Li Zhuoran. Cover design: Xu Jiayi.
+
+</div>

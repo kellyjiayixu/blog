@@ -8,20 +8,10 @@ layout: default
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-        {% if site.sidebar == false %}
-<!-- NO SIDEBAR -->
-    <!-- PostList Container -->
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
+        {% if page.no-sidebar %}
+<!-- NO SIDEBAR (e.g. About page) -->
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
                 {{ content }}
-            </div>
-    <!-- Sidebar Container -->
-            <div class="
-                col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                sidebar-container">
-
-                <!-- Featured Tags -->
-                {% include featured-tags.html %}
             </div>
         {% else %}
 
@@ -46,9 +36,6 @@ layout: default
             ">
                 <!-- Featured Tags -->
                 {% include featured-tags.html %}
-
-                <!-- Short About -->
-                {% include short-about.html %}
     		</div>
         {% endif %}
 	</div>

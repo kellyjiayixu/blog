@@ -1,6 +1,6 @@
 # Site settings
-title: X+1's Blog
-SEOTitle: 叮当猫的麻袋 | X+1's Blog
+title: Kelly Xu
+SEOTitle: Kelly Xu
 header-img: img/about-bg-walle.jpg
 email: master@kellyxu.com
 description: "All about time and space."
@@ -15,16 +15,18 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    kellyxu-com
+github_username:    kellyjiayixu
 #twitter_username:   huxpro
 #facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+linkedin_username:  kelly-xu-jiayiux
+scholar_url:        "https://scholar.google.com/citations?user=1iwD4zEAAAAJ&hl=en"
+contact_email:      "kellyjiayixu@gmail.com"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 20
+# paginate: 20   # pagination disabled; Blog lists posts directly
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:

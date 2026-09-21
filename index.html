@@ -1,49 +1,58 @@
 ---
 layout: page
-description: "All about time and space"
+title: "About"
+description: ""
+header-img: "img/about-bg-walle.jpg"
+multilingual: true
+no-sidebar: true
+permalink: /
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {% if post.lang == 'en' %}
-                {{ post.content | strip_html | truncate:300 }}
-            {% else %}
-                {{ post.content | strip_html | truncate:200 }}
-            {% endif %}
+<style type="text/css">
+    /* Align the photo with the top of the bio text (theme's .post-container img
+       adds a large top margin that we don't want here). */
+    .about-photo .short-about img {
+        margin-top: 6px;
+        border-radius: 50%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+    }
+    @media (max-width: 767px) {
+        /* Stack on small screens, matching the theme's responsive behaviour. */
+        .about-photo { max-width: 260px; margin: 0 auto 10px; }
+    }
+</style>
+
+{% include multilingual-sel.html %}
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    <div class="row">
+        <div class="col-md-8 col-sm-8">
+            {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+            {{ about_zh | markdownify }}
         </div>
-    </a>
-    <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+        <!-- Profile photo: reuses the theme's short-about avatar styling (rounded rectangle). -->
+        <div class="col-md-4 col-sm-4 sidebar-container about-photo">
+            <div class="short-about">
+                <img src="{{ site.baseurl }}/img/IMG_3135.jpg" alt="Kelly Xu">
+            </div>
+        </div>
+    </div>
 </div>
-<hr>
-{% endfor %}
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
-
-
-{% include footer.html %}
+<!-- English Version -->
+<div class="en post-container">
+    <div class="row">
+        <div class="col-md-8 col-sm-8">
+            {% capture about_en %}{% include about/en.md %}{% endcapture %}
+            {{ about_en | markdownify }}
+        </div>
+        <!-- Profile photo: reuses the theme's short-about avatar styling (rounded rectangle). -->
+        <div class="col-md-4 col-sm-4 sidebar-container about-photo">
+            <div class="short-about">
+                <img src="{{ site.baseurl }}/img/IMG_3135.jpg" alt="Kelly Xu">
+            </div>
+        </div>
+    </div>
+</div>

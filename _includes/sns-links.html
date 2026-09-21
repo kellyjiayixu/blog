@@ -1,5 +1,8 @@
 {% comment %}
-    @param {Boolean} center 
+    Icon-only social links (Font Awesome fa-stack circular style, as used by the
+    Hux theme). Destinations come from _config.yml so they're easy to maintain.
+
+    @param {Boolean} center
 {% endcomment %}
 
 {% if include.center %}
@@ -8,74 +11,44 @@
 <ul class="list-inline">
 {% endif %}
 
-  {% if site.RSS %}
+  {% if site.linkedin_username %}
   <li>
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
       </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.twitter_username %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.zhihu_username %}
-  <li>
-    <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa  fa-stack-1x fa-inverse">知</i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.weibo_username %}
-  <li>
-    <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.facebook_username %}
-  <li>
-    <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-      </span>
+      <span class="sr-only">LinkedIn</span>
     </a>
   </li>
   {% endif %}
   {% if site.github_username %}
   <li>
-    <a target="_blank" href="https://github.com/{{ site.github_username }}">
+    <a target="_blank" rel="noopener" href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-github fa-stack-1x fa-inverse"></i>
       </span>
+      <span class="sr-only">GitHub</span>
     </a>
   </li>
   {% endif %}
-  {% if site.linkedin_username %}
   <li>
-    <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+    <a target="_blank" rel="noopener" href="{{ site.scholar_url | default: 'https://scholar.google.com/citations?user=1iwD4zEAAAAJ&hl=en' }}" aria-label="Google Scholar">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-google fa-stack-1x fa-inverse"></i>
       </span>
+      <span class="sr-only">Google Scholar</span>
     </a>
   </li>
-  {% endif %}
+  <li>
+    <a href="mailto:{{ site.contact_email | default: 'kellyjiayixu@gmail.com' }}" aria-label="Email">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>
 </ul>

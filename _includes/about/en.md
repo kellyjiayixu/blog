@@ -1,4 +1,5 @@
-C. Radhakrishna Rao - Statistics and Truth - Putting Chance to Work  
-> All knowledge is, in final analysis, history.  
-> All sciences are, in the abstact, mathematics.  
-> All judgements are, in their rational, statistics.  
+Hi, I’m Kelly. 👋
+
+I am a software engineer at AllianceBernstein, maintaining our equity trading platform.
+
+In 2025, I graduated from Vanderbilt University with majors in Computer Science and Mathematics and a minor in Data Science.

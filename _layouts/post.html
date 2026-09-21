@@ -28,20 +28,42 @@ layout: default
 				{{ content }}
 
                 <hr style="visibility: hidden;">
+                {% comment %}
+                    Section-aware pager: Blog posts only link to other Blog posts and
+                    Thoughts posts only to other Thoughts posts. Neighbours are found
+                    within site.posts filtered by the current post's `section`
+                    (newest-first), so this stays generic for any future section.
+                {% endcomment %}
+                {%- assign _section_posts = site.posts | where: 'section', page.section -%}
+                {%- assign _prev = nil -%}
+                {%- assign _next = nil -%}
+                {%- for _p in _section_posts -%}
+                    {%- if _p.url == page.url -%}
+                        {%- unless forloop.first -%}
+                            {%- assign _newer_i = forloop.index0 | minus: 1 -%}
+                            {%- assign _next = _section_posts[_newer_i] -%}
+                        {%- endunless -%}
+                        {%- unless forloop.last -%}
+                            {%- assign _older_i = forloop.index0 | plus: 1 -%}
+                            {%- assign _prev = _section_posts[_older_i] -%}
+                        {%- endunless -%}
+                        {%- break -%}
+                    {%- endif -%}
+                {%- endfor -%}
                 <ul class="pager">
-                    {% if page.previous.url %}
+                    {% if _prev %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
+                        <a href="{{ _prev.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ _prev.title }}">
                         Previous<br>
-                        <span>{{page.previous.title}}</span>
+                        <span>{{ _prev.title }}</span>
                         </a>
                     </li>
                     {% endif %}
-                    {% if page.next.url %}
+                    {% if _next %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
+                        <a href="{{ _next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ _next.title }}">
                         Next<br>
-                        <span>{{page.next.title}}</span>
+                        <span>{{ _next.title }}</span>
                         </a>
                     </li>
                     {% endif %}
@@ -62,23 +84,6 @@ layout: default
                 <!-- 网易云跟帖 评论框 end -->
                 {% endif %}
             </div>
-
-    <!-- Side Catalog Container -->
-        {% if page.catalog %}
-            <div class="
-                col-lg-2 col-lg-offset-0
-                visible-lg-block
-                sidebar-container
-                catalog-container">
-                <div class="side-catalog">
-                    <hr class="hidden-sm hidden-xs">
-                    <h5>
-                        <a class="catalog-toggle" href="#">CATALOG</a>
-                    </h5>
-                    <ul class="catalog-body"></ul>
-                </div>
-            </div>
-        {% endif %}
 
     <!-- Sidebar Container -->
             <div class="

@@ -1,0 +1,111 @@
+{% comment %}
+  Reusable, archive-style post list with a dynamic tag-cloud filter.
+
+  Reuses the theme's own markup (.js-tags / .mini-post-list / .js-result / .item)
+  and JavaScript (js/jquery.tagcloud.js + js/archive.js, loaded from footer.html
+  when the page sets `tag_filter: true`).
+
+  @param {String} section  Optional. Only list posts whose front-matter `section`
+                           matches this value. Omit to list every post.
+
+  The tag cloud, per-tag counts and each post's data-tags are all derived from the
+  posts' own `tags`, so adding tags / posts / sections needs no template changes.
+{% endcomment %}
+
+{% if include.section %}
+  {% assign _posts = site.posts | where: 'section', include.section %}
+{% else %}
+  {% assign _posts = site.posts %}
+{% endif %}
+
+<style type="text/css">
+    /* The theme styles .mini-post-list meta as a tiny bottom-right tag; align it
+       with the Blog page's "Posted by ... on ..." byline instead. */
+    .mini-post-list .post-preview > .post-meta {
+        position: static;
+        right: auto;
+        bottom: auto;
+        margin-top: 0;
+        font-family: 'Lora', 'Times New Roman', serif;
+        color: #cccccc;
+        font-size: 16px;
+        font-style: italic;
+        line-height: 1.5;
+    }
+    @media only screen and (min-width: 768px) {
+        .mini-post-list .post-preview > .post-meta { font-size: 18px; }
+    }
+</style>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+			<!-- Tags (as filter), generated dynamically from the listed posts -->
+			<div id='tag_cloud' class="tags tags-sup js-tags">
+				<a class="tag-button--all" data-encode="">
+					Show All
+					<sup>{{ _posts | size }}</sup>
+				</a>
+
+				{%- assign _tagstr = '' -%}
+				{%- for _p in _posts -%}{%- for _t in _p.tags -%}{%- assign _tagstr = _tagstr | append: _t | append: '__T__' -%}{%- endfor -%}{%- endfor -%}
+				{%- assign _uniqtags = _tagstr | split: '__T__' | uniq | sort -%}
+				{% capture tags %}
+				{% for _tag in _uniqtags %}
+				{%- assign _cnt = 0 -%}
+				{%- for _p in _posts -%}{%- if _p.tags contains _tag -%}{%- assign _cnt = _cnt | plus: 1 -%}{%- endif -%}{%- endfor -%}
+				<a data-sort="{{ _posts.size | minus: _cnt | prepend: '0000' | slice: -4, 4 }}" data-encode="{{ _tag | strip | url_encode }}" class="tag-button" title="{{ _tag }}" rel="{{ _cnt }}">
+					{{ _tag }}
+					<sup>{{ _cnt }}</sup>
+				</a>__SEPERATOR__
+				{% endfor %}
+				{% endcapture %}
+				{{ tags | split:'__SEPERATOR__' | sort }}
+			</div>
+
+			<!-- Article List -->
+			<div class="mini-post-list js-result d-none">
+			{%- assign _sorted_list = _posts | sort: 'date' | reverse -%}
+			{%- assign _date = '' -%}
+			{%- for _article in _sorted_list -%}
+
+				{%- comment -%} comma-joined, url-encoded tags consumed by archive.js {%- endcomment -%}
+				{%- assign _tags = '' -%}
+				{%- for _tag in _article.tags -%}
+					{%- assign _tag_encode = _tag | strip | url_encode -%}
+					{%- if forloop.last -%}
+						{%- assign _tags = _tags | append: _tag_encode -%}
+					{%- else -%}
+						{%- assign _tags = _tags | append: _tag_encode | append: ',' -%}
+					{%- endif -%}
+				{%- endfor -%}
+
+				{%- comment -%} group by year {%- endcomment -%}
+				{%- assign _currentdate = _article.date | date: '%Y' -%}
+				{%- if _currentdate != _date -%}
+					{%- unless forloop.first -%}</section>{%- endunless -%}
+					<section>
+					<span class="fa listing-seperator">
+						<span class="tag-text">{{ _currentdate }}</span>
+					</span>
+					{%- assign _date = _currentdate -%}
+				{%- endif -%}
+
+				<div class="post-preview item" data-tags="{{ _tags }}">
+				    <a href="{{ _article.url | prepend: site.baseurl }}">
+				        <h2 class="post-title">
+				            {{ _article.title }}
+				        </h2>
+				    </a>
+				    <p class="post-meta">
+				        Posted by {% if _article.author %}{{ _article.author }}{% else %}{{ site.title }}{% endif %} on {{ _article.date | date: "%B %-d, %Y" }}
+				    </p>
+				    <hr>
+				</div>
+			{%- if forloop.last -%}</section>{%- endif -%}
+			{%- endfor -%}
+		</div>
+	</div>
+</div>
