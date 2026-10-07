@@ -700,6 +700,9 @@ samp {
 .postlist-container {
   margin-bottom: 15px;
 }
+.post-container p {
+  text-align: justify;
+}
 .post-container a {
   color: #337ab7;
 }
