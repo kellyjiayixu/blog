@@ -28,8 +28,8 @@ body {
 
 @media only screen and (max-width: 767px) {
   .container {
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: @mobile-gutter;
+    padding-right: @mobile-gutter;
   }
 }
 
@@ -50,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-  .sans-serif;
+  .heading-font();
   line-height: 1.1;
   font-weight: bold;
 }
@@ -369,6 +369,7 @@ samp {
   z-index: 3;
   .sans-serif;
   .navbar-brand {
+    .heading-font();
     font-weight: 800;
     // materialize
     color: white;
