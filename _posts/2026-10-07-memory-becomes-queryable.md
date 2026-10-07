@@ -16,9 +16,9 @@ tags:       [AI]
 
 初中生物课上，老师说，语言是人类区别于其他动物的重要特征之一。历史课上，我们学到蔡伦改进造纸术，以及课本里颇为自豪的中国四大发明。当时，我对这些知识的关注主要还停留在考试范围内。
 
-从纸张到印刷机、打字机，再到计算机，知识的记录、复制和保存变得越来越容易。我出生时，互联网正在普及。一个人写下的想法，可以被世界另一端的陌生人读到；Google 又让这些散落各处的内容有了统一的搜索入口。
+从纸张到印刷机、打字机，再到计算机，知识的记录、复制和保存变得越来越容易。我出生时，互联网正在普及。一个人写下的想法，可以被世界另一端的陌生人读到，Google 又让这些散落各处的内容有了统一的搜索入口。
 
-大二时，我开始接触 ChatGPT。最初的用途很实际：临近上课，让它帮忙翻译、总结还没读完的材料。它有没有帮助我学习，不好说，但至少在当时是救命稻草。
+大二时，我开始接触 ChatGPT。最初的用途很实际，临近上课，让它帮忙翻译、总结还没读完的材料。它有没有帮助我学习，不好说，但至少在当时是救命稻草。
 
 此后，模型处理上下文的能力不断提升。通过 RAG、MCP 等技术和协议，我们也能在不重新训练模型的情况下，为它提供所需的信息。模型可能熟悉软件工程的各种原则，却不知道我们团队为什么做出某个具体的设计决策。通用知识无法替代这些背景，前提仍然是有人把它们记录下来，并让模型能够访问。
 
@@ -39,7 +39,7 @@ In middle school, my biology teacher told us that language was one of the things
 
 Then came printing presses, typewriters, and eventually computers. Each made some part of creating, copying, or storing information easier. By the time I was born, the internet was becoming part of everyday life. People could publish something online and reach readers they would never meet. Google made much of that information searchable.
 
-During my sophomore year of college, I started hearing about ChatGPT. My first use case was fairly practical—summarizing readings I had left until shortly before class. Whether this improved my education is debatable, but it helped with the immediate problem.
+During my sophomore year of college, I started hearing about ChatGPT. My first use case was fairly practical — summarizing readings I had left until shortly before class. Whether this improved my education is debatable, but it helped with the immediate problem.
 
 Since then, models have gotten better at using context, and we’ve built ways to supply it through approaches like RAG and protocols like MCP, without retraining the model. A model might know a lot about software engineering, but understanding why our team made a particular choice still depends on someone recording that decision and making it available.
 
